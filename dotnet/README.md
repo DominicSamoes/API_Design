@@ -79,7 +79,7 @@ I used Pomelo.EntityFrameworkCore.MySql which is the Entity Framework Core (EF C
 
 Got Pomelo.EntityFrameworkCore.MySql from [here](https://www.nuget.org/).
 
-## [Code](/TheVultureFundAPI)
+## [Code](TheVultureFundAPI)
 * C# was used.
 * Allowed Cross-Origin Resource Sharing (CORS) for a test React Application running on Port: 3000:
   
